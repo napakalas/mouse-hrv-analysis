@@ -4,7 +4,9 @@ This code is a used to analyse mouse hrs recorded consecutively using AdInstrume
 
 - install requirement.txt
 - make sure jupyter is available
-- put required mat files in `data` folder or modiy variable `data_path` in `Preparation` cell with mat files location
+- run jupyter
+- open `hrv_analysis.ipynb`
+- put required mat files in `data` folder or modiy variable `data_path` with mat files location
 
 Note:
 
